@@ -1,0 +1,12 @@
+C:\Users\lab_services_student\Documents\projects\lib\bin\Debug\net7.0\lib.deps.json
+C:\Users\lab_services_student\Documents\projects\lib\bin\Debug\net7.0\lib.dll
+C:\Users\lab_services_student\Documents\projects\lib\bin\Debug\net7.0\lib.pdb
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.dll
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\refint\lib.dll
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\lib.pdb
+C:\Users\lab_services_student\Documents\projects\lib\obj\Debug\net7.0\ref\lib.dll

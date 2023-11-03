@@ -3,7 +3,7 @@ TIME MANAGEMENT APPLICATION
 Link for video: https://youtu.be/nAp3PAVuW_0?si=AisEOJFQ1DjHrysa 
 READ.ME FILE:
   
-Time management Apple:
+Time management application:
 Introduction:
 
 The program is a simple WPF (Windows Presentation Foundation) that consists of a registration process and login system. Upon logging in, users may log in their study hours, control, and track their study modules, and obtain information regarding their self-study hours. This README file provides an overview of the code structure and how to use the application.

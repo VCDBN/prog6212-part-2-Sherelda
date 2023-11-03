@@ -1,9 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZBv8Gjle)
 TIME MANAGEMENT APPLICATION
-
+Link for video: https://youtu.be/nAp3PAVuW_0?si=AisEOJFQ1DjHrysa 
 READ.ME FILE:
-
-Link for video:  https://youtu.be/nAp3PAVuW_0?si=f_UKXUNIlg72Ga7h
+  
 Time management Apple:
 Introduction:
 
